@@ -1,0 +1,3 @@
+[submodule "alibabacloud-nls-python-sdk"]
+	path = alibabacloud-nls-python-sdk
+	url = https://github.com/aliyun/alibabacloud-nls-python-sdk
